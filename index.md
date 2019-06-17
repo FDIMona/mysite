@@ -4,7 +4,7 @@ layout: default
 
 ![github](2019-06-17_11h28_38.png)
 
-# Kirby
+# github
 
 A Nintendo Character
 
