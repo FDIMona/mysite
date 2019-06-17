@@ -4,20 +4,26 @@ layout: default
 
 ![github](2019-06-17_11h28_38.png)
 
-# github
+## github
+# Mona
+    *momomomo
 
-A Nintendo Character
+A girl
 
 - - -
 
 ### about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+台灣人 巨蟹座
 
 ### Links
 
+
+- - -
+* [臉書](https://www.facebook.com/profile.php?id=100000038168104)
+- - -
  * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
  * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+ 
 
 - - -
