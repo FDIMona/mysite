@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![github](2019-06-17_11h28_38.png)
 
 # Kirby
 
